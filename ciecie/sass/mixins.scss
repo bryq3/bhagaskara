@@ -1,0 +1,14 @@
+
+@mixin liAnimate{
+	@keyframes bend{
+		10%{padding: 20px;}
+	}
+	animation: bend 10s;
+}
+@mixin barAnimate{
+	@keyframes bar1{
+		0%{width: 0px;}
+		100%{width: 90px;}
+	}
+	animation: bar1 2s;
+}
