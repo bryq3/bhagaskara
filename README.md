@@ -6,4 +6,4 @@
 Transitions and navbar elements effect was created in CSS.<br> For sricky menu, sliders, gallery with filter, burger menu and form validation i used CSS/JavaScript/jQuery.<br>
 Website is responsive - designed for either dekstops, tablets as well as smartphones. 
 
-<span>CHECK IT OUT NOW: <a>https://bryq3.github.io/bhagaskara/</a> </span>
+<span>CHECK IT OUT NOW: <a>https://bryq3.github.io/bhagaskara/index2.html</a> </span>
